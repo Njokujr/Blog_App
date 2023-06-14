@@ -6,7 +6,7 @@
 
 BlogApp is a Python-based blog application developed by our dedicated team. It provides users with a user-friendly platform to create, share, and engage with articles on various topics. This README.md file provides an overview of the project and guides you on installation, usage, contributing, related projects, and licensing.
 
-![BlogApp-frontend](images\Screenshot (21).png)
+![BlogApp-frontend](django_project\images\Screenshot (21).png)
 
 
 ## Table Of Content
