@@ -6,13 +6,12 @@
 
 BlogApp is a Python-based blog application developed by our dedicated team. It provides users with a user-friendly platform to create, share, and engage with articles on various topics. This README.md file provides an overview of the project and guides you on installation, usage, contributing, related projects, and licensing.
 
-![BlogApp-frontend](django_project\images\Screenshot (21).png)
-
+![](images\Screenshot (21).png)
 
 ## Table Of Content
 
-- [Installation](#installation) 
-- [Usage](#usage) 
+- [Installation](#installation)
+- [Usage](#usage)
 - [Contribution](#contributing)
 - [License](#licensing)
 - [Links](#links)
@@ -55,7 +54,7 @@ The BlogApp project is licensed under the [MIT License](LICENSE).
 
 ## Links
 
-* [Web site](https://aimeos.org/integrations/typo3-shop-extension/)
-* [Documentation](https://aimeos.org/docs/TYPO3)
-* [Issue tracker](https://github.com/django_project/issues)
-* [Source code](https://github.com/django_project)
+- [Web site](https://aimeos.org/integrations/typo3-shop-extension/)
+- [Documentation](https://aimeos.org/docs/TYPO3)
+- [Issue tracker](https://github.com/django_project/issues)
+- [Source code](https://github.com/django_project)
